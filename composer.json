@@ -1,0 +1,15 @@
+{
+    "name": "cross-solution/twitter-bootstrap-wizard",
+    "description": "This twitter bootstrap plugin builds a wizard out of a formatter tabbable structure. It allows to build a wizard functionality using buttons to go through the different wizard steps and using events allows to hook into each step individually.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vincent Gabriel",
+            "email": "vadimg88@gmail.com"
+        }
+    ],
+    "require": {
+        "components/jquery": "^2.2",
+        "twbs/bootstrap": "^3.3"
+    }
+}
